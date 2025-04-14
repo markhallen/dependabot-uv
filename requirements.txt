@@ -8,5 +8,5 @@ idna==3.10
     # via requests
 requests==2.31.0
     # via dependabot-uv (pyproject.toml)
-urllib3==2.3.0
+urllib3==2.4.0
     # via requests
